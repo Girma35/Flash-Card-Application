@@ -1,8 +1,8 @@
-```markdown
+
 # Flash Card Application
 
-[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This is a flash card application built with Python and Tkinter. It allows users to learn and test their knowledge of English-Amharic translations using flashcards.
 
@@ -38,7 +38,7 @@ This is a flash card application built with Python and Tkinter. It allows users 
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/flashcard-app.git
+   git clone https://github.com/Girma35/Flash-Card-Application.git
    cd flashcard-app
    ```
 
@@ -60,6 +60,11 @@ This is a flash card application built with Python and Tkinter. It allows users 
    ├── main.py
    └── README.md
    ```
+# Output
+
+
+https://github.com/Girma35/Flash-Card-Application/assets/143084812/808e4a8e-7d37-46b5-968e-dfbea56247f8
+
 
 ## Data Format
 
@@ -92,9 +97,6 @@ goodbye,ቻው
 - **images/wrong.png**: Image for the "unknown" button.
 - **images/card_front.png**: Image for the front side of the flashcard.
 - **images/card_back.png**: Image for the back side of the flashcard.
-  
-## The output of the application
-https://github.com/Girma35/Flash-Card-Application/assets/143084812/fba84768-3e0e-4bea-8e5b-22c7d59d6bb5
 
 ## Customization
 
@@ -116,23 +118,7 @@ Feel free to contribute to this project by submitting issues or pull requests. A
 
 ## Contact
 
-For any questions or feedback, please contact [your email](mailto:your.email@example.com).
+For any questions or feedback, please contact [girmawakeyo4@gmail.com].
 
 Enjoy learning new words with your flashcard app!
 ```
-
-### Key Additions:
-
-- **Badges**: Added badges for Python version and license to the top of the README.
-- **Table of Contents**: Included a table of contents for easy navigation.
-
-Make sure to replace placeholders such as `yourusername` and `your.email@example.com` with your actual GitHub username and email address. This structure will make your README look more professional and user-friendly.
-```
-
-
-
-
-
-
-
-
